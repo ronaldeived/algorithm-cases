@@ -8,4 +8,6 @@ To validate the data, you just need to run the unit tests.
 
 Inside each folder, there is a text file with a description of the test.
 
+My user: rona_dev
+
 .NET Version: 7.0
