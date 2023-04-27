@@ -9,9 +9,11 @@
 
   <ItemGroup>
     <None Remove="Problem Solving\" />
+    <None Remove="Problem Solving\Plus Minus\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Problem Solving\" />
+    <Folder Include="Problem Solving\Plus Minus\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="FluentAssertions" Version="6.11.0" />
