@@ -1,12 +1,12 @@
 ﻿using FluentAssertions;
-using Main.ProblemSolving;
+using Main.ProblemSolving.PlusMinus;
 
 namespace MainTests.ProblemSolving
 {
     public class PlusMinusSpec
     {
         [Fact]
-        public void ShouldPrintSixScaleValues()
+        private void ShouldPrintSixScaleValues()
         {
             var consoleValue = new StringWriter();
 
@@ -30,7 +30,7 @@ namespace MainTests.ProblemSolving
         }
 
         [Fact]
-        public void ShouldGetCorretlyValues()
+        private void ShouldGetCorretlyValues()
         {
             var consoleValue = new StringWriter();
 
@@ -50,7 +50,7 @@ namespace MainTests.ProblemSolving
         }
 
         [Fact]
-        public void ShouldGetMessagePassingEmptyList()
+        private void ShouldGetMessagePassingEmptyList()
         {
             var consoleValue = new StringWriter();
 

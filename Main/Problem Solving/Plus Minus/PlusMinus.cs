@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Main.ProblemSolving
+namespace Main.ProblemSolving.PlusMinus
 {
     public abstract class PlusMinus
     {
