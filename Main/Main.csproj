@@ -12,12 +12,14 @@
     <None Remove="Problem Solving\Plus Minus\" />
     <None Remove="Problem Solving\Min Max Sum\" />
     <None Remove="Problem Solving\Time Conversion\" />
+    <None Remove="Problem Solving\Multiple\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Problem Solving\" />
     <Folder Include="Problem Solving\Plus Minus\" />
     <Folder Include="Problem Solving\Min Max Sum\" />
     <Folder Include="Problem Solving\Time Conversion\" />
+    <Folder Include="Problem Solving\Multiple\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="FluentAssertions" Version="6.11.0" />
