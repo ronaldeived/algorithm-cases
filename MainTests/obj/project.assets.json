@@ -6278,11 +6278,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ronaldeivedsilva/Projects/HackerRankProject/MainTests/MainTests.csproj",
+      "projectUniqueName": "/Users/ronaldeivedsilva/Projects/personal/HackerRankProject/MainTests/MainTests.csproj",
       "projectName": "MainTests",
-      "projectPath": "/Users/ronaldeivedsilva/Projects/HackerRankProject/MainTests/MainTests.csproj",
+      "projectPath": "/Users/ronaldeivedsilva/Projects/personal/HackerRankProject/MainTests/MainTests.csproj",
       "packagesPath": "/Users/ronaldeivedsilva/.nuget/packages/",
-      "outputPath": "/Users/ronaldeivedsilva/Projects/HackerRankProject/MainTests/obj/",
+      "outputPath": "/Users/ronaldeivedsilva/Projects/personal/HackerRankProject/MainTests/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ronaldeivedsilva/.nuget/NuGet/NuGet.Config"
@@ -6298,8 +6298,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "/Users/ronaldeivedsilva/Projects/HackerRankProject/Main/Main.csproj": {
-              "projectPath": "/Users/ronaldeivedsilva/Projects/HackerRankProject/Main/Main.csproj"
+            "/Users/ronaldeivedsilva/Projects/personal/HackerRankProject/Main/Main.csproj": {
+              "projectPath": "/Users/ronaldeivedsilva/Projects/personal/HackerRankProject/Main/Main.csproj"
             }
           }
         }
@@ -6355,7 +6355,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.202/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.309/RuntimeIdentifierGraph.json"
       }
     }
   }

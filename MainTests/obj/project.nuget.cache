@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OwUaaRScyUQ5OxmO9UJ33ojZwZ2IHZm7IsgPjgKlgPmMhiMPEYRVeEMbxS6CYyqKR7jyIlDZYLDH4z1DhJWc9Q==",
+  "dgSpecHash": "dM5VKfQ1BGvotv4uQAjXfx60ZegRlD6sThQ+NoRwIgnvjrDOGiw6iDGRT6fXnsylcfUQ2zx9/CfGdTsZONP8uA==",
   "success": true,
-  "projectFilePath": "/Users/ronaldeivedsilva/Projects/HackerRankProject/MainTests/MainTests.csproj",
+  "projectFilePath": "/Users/ronaldeivedsilva/Projects/personal/HackerRankProject/MainTests/MainTests.csproj",
   "expectedPackageFiles": [
     "/Users/ronaldeivedsilva/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/ronaldeivedsilva/.nuget/packages/fluentassertions/6.11.0/fluentassertions.6.11.0.nupkg.sha512",
